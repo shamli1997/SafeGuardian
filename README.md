@@ -4,6 +4,10 @@
 
 ---
 
+## 📽 Demo
+
+![Fall Detection Demo](https://github.com/shamli1997/SafeGuardian/blob/main/fall_detection_demo_.gif?raw=true)
+
 ## 🚀 Features
 
 - 🎯 **Accurate Fall Detection** using YOLOv8 + MediaPipe Pose
